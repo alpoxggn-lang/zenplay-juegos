@@ -4,6 +4,10 @@ Aplicación Android de prueba para móvil, tablet, Android TV y Fire TV con Fire
 
 ## Descargar
 
+**Enlace fijo para Downloader:** [ZenGame.apk](https://github.com/alpoxggn-lang/zenplay-juegos/releases/latest/download/ZenGame.apk).
+
+El enlace no contiene el número de versión. Cada nueva release marcada como `latest` debe incluir la APK actual con el nombre exacto `ZenGame.apk` para conservarlo. El archivo es idéntico a la APK con nombre de versión.
+
 La APK y el código editable se publican en [Releases](https://github.com/alpoxggn-lang/zenplay-juegos/releases/latest).
 
 - `ZenPlay-0.3.1-prueba.apk`: aplicación de prueba.
@@ -35,7 +39,7 @@ No se incluyen ROMs o BIOS comerciales, cuentas, sesiones ni claves de firma. Lo
 
 1. Aumentar `versionCode`, actualizar `versionName` y compilar usando la misma clave privada de firma.
 2. Comprobar las pruebas, la APK y las condiciones de distribución de cada componente.
-3. Crear un borrador de release con una etiqueta de versión y adjuntar la APK, el código y los archivos de fuentes correspondientes.
+3. Crear un borrador de release con una etiqueta de versión y adjuntar la APK, el código y los archivos de fuentes correspondientes. Adjuntar también una copia idéntica de la APK llamada exactamente `ZenGame.apk`, con mayúsculas y minúsculas tal como aparecen, para mantener el enlace fijo de Downloader.
 4. Adjuntar `zenplay-update.json` con `packageName`, `versionCode`, `versionName`, `apkUrl`, `sha256`, `size`, `minSdk` y `notes`. El enlace debe corresponder a la etiqueta y al nombre real de la APK en este repositorio.
 5. Publicar como la última versión (`latest`) cuando todos los archivos estén completos. Los borradores y pre-releases no se ofrecen en el canal actual.
 
