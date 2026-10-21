@@ -1,3 +1,11 @@
+## Versión actual 0.4.0
+
+[Descargas y cambios](https://github.com/alpoxggn-lang/zenplay-juegos/releases/tag/v0.4.0). Usar las APK y el ZIP de código de esta release; main puede contener código anterior.
+
+- [ZenGame.apk](https://github.com/alpoxggn-lang/zenplay-juegos/releases/latest/download/ZenGame.apk)
+
+---
+
 # ZenPlay Juegos
 
 Aplicación Android de prueba para móvil, tablet, Android TV y Fire TV con Fire OS. El funcionamiento en equipos físicos varía según el dispositivo y el núcleo.
